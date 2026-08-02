@@ -1,4 +1,4 @@
 {
-    file : "Grouping Data",
-    type : "SQL"
+  "file": "Group By and Having",
+  "type": "SQL"
 }
